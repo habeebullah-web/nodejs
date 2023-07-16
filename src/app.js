@@ -1,4 +1,4 @@
-'use strict1';
+'use stricthabeeb';
 
 const express = require('express');
 const enrouten = require('express-enrouten');
