@@ -1,4 +1,4 @@
-'use strict';
+'use strict1';
 
 const express = require('express');
 const enrouten = require('express-enrouten');
